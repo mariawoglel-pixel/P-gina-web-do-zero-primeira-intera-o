@@ -1,2 +1,2 @@
-# P-gina-web-do-zero-primeira-intera-o
+# Pagina-web-do-zero-primeira-intera-o
 trabalho para conclusão do curso da Alura
